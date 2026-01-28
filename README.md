@@ -1,10 +1,10 @@
 # NCO-DRL--CMTAP-UAV
-Source code and data for 'A Neural Combinatorial Optimization for Cooperative Multi-Task Assignment of Heterogeneous UAVs with Constraint-Aware Masking'
+
 # Neural Combinatorial Optimization for Cooperative Multi-Task Assignment of Heterogeneous UAVs
 
 This repository provides the source code and experimental data for the paper:
 
-> **An End-to-End Neural Combinatorial Optimization Framework for Cooperative Multi-Task Assignment of Heterogeneous UAVs**  
+> **Cooperative Multi-Task Assignment of Heterogeneous UAVs: Neural Combinatorial Optimization with Constraint-Aware Masking**  
 > (under review)
 
 ## 📌 Overview
