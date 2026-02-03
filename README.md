@@ -19,9 +19,10 @@ We propose an **end-to-end neural combinatorial optimization (NCO) framework** t
 
 Extensive experiments demonstrate superior performance over state-of-the-art metaheuristic algorithms, especially in large-scale scenarios, with strong generalization capability.
 
-## 视频演示
+## Animation
 <div align="center">
-  <img src="assets/result.gif" width="600" />
+  <img src="result/result.gif" width="600" />
 </div>
 
+[For more comparison details, please see this link.](https://www.bilibili.com/video/BV1pBziB6E9z/?spm_id_from=333.337.search-card.all.click&vd_source=cb169812dfbb147a1cca2ef037dfa800)
 ## 📂 Repository Structure
