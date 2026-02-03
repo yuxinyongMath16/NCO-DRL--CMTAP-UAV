@@ -25,4 +25,3 @@ Extensive experiments demonstrate superior performance over state-of-the-art met
 </div>
 
 [For more comparison details, please see this link.](https://www.bilibili.com/video/BV1pBziB6E9z/?spm_id_from=333.337.search-card.all.click&vd_source=cb169812dfbb147a1cca2ef037dfa800)
-## 📂 Repository Structure
